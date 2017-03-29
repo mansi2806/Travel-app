@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Bar</string>
+    <string-array name="List">
+        <item>Monuments</item>
+        <item>Restaurants</item>
+        <item>Malls</item>
+    </string-array>
+</resources>
